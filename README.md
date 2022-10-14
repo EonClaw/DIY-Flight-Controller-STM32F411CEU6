@@ -1,4 +1,4 @@
-# BLACKPILL-FC-STM32F411
+# 10Dollar DIY Flight Controller BLACKPILL-STM32F411CEU6
 Use pins from MATEKF411.
 Sample video - https://www.youtube.com/shorts/S77i9NlFbQY
 
