@@ -1,7 +1,7 @@
 # 10Dollar DIY Flight Controller BLACKPILL-STM32F411CEU6
 
 
-![My Remote Image]([https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/20221011_154746-ed.jpg](https://youtu.be/VZH03NSljEk)?dl=0)
+![My Remote Image](https://youtu.be/VZH03NSljEk)?dl=0)
 
 To verify pin assignments: Open Configurator, in CLI - type "resource". 
 
