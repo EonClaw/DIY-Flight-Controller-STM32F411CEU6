@@ -21,3 +21,5 @@ Swapped SoftSerial1_RX and LED-STRIP pins.
 Replaced SBUS by IBUS as default protocol.
 
 BMI160 as default IMU versus MPU6000.
+
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/blackpill-fc-pinout.png?dl=0)
