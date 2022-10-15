@@ -1,5 +1,7 @@
 # 10$ DIY Flight Controller BLACKPILL-STM32F411CEU6
 
+INAV 5.1.0 Firmware
+
 To verify pin assignments: Open Configurator, in CLI - type "resource". 
 
 No warranties. Use at your own risk especially the MPU6050.
