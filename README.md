@@ -22,8 +22,6 @@ BMI160 as default IMU versus MPU6000.
 
 3D Printed Blackpill Mount STL - https://www.thingiverse.com/thing:5565912
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/20221011_154746-ed.jpg?dl=0)
-
 
 Prototype with MPU6050
 
@@ -33,6 +31,8 @@ Prototype with MPU6050
 Version 1.0 MPU6050
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/20221010_202114.jpg?dl=0)
+
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/20221011_154746-ed.jpg?dl=0)
 
 
 Version 2.0 BMI160
