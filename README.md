@@ -24,6 +24,8 @@ BMI160 as default IMU versus MPU6000.
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/20221011_154746-ed.jpg?dl=0)
 
+Version 3.0 BMI160
+
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/20221014_203524-ed.jpg?dl=0)
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/20221015_083626.jpg?dl=0)
