@@ -56,7 +56,7 @@ Tyro79 frame, strap and motors
 
 20A 4-in-1 ESC (loaded with BlueJay)
 
-Flysky FS-RX2A Pro Receiver (Running on IBUS)
+Flysky FS-RX2A Pro Receiver (IBUS)
 
 Flysky FS-i6 Transmitter (14-channel Firmware)
 
