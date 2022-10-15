@@ -30,9 +30,8 @@ Changelog from Original MatekF411 Target:
 
             Renamed "inav_5.1.0_BLACKPILL_BMI160.hex" to "inav_5.1.0_BLACKPILL_BMI160_96Mhz-old.hex" - to reflect systemclock.
             
-            Added "inav_5.1.0_BLACKPILL_BMI160_96Mhz-new.hex" that runs at 96Mhz but on a different permutation.
+            Added "inav_5.1.0_BLACKPILL_BMI160_96Mhz-new.hex" that runs at 96Mhz but on a different permutation.           
             
-            Added "inav_5.1.0_BLACKPILL_BMI160_108Mhz.hex" that runs at 108Mhz.
 
 
 Prototype with MPU6050
