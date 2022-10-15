@@ -12,15 +12,27 @@ ESC Dshot300 with Bluejay Firmware 48Khz - Remember your ESC version (better dow
 
 set looptime = 1000
 
-Changes from Original MatekF411 Target:
-
-Swapped SoftSerial1_RX and LED-STRIP pins.
-
-Replaced SBUS by IBUS as default protocol.
-
-BMI160 as default IMU versus MPU6000.
 
 3D Printed Blackpill Mount STL - https://www.thingiverse.com/thing:5567402
+
+
+Changelog from Original MatekF411 Target:
+
+10/14/2022:
+
+            Swapped SoftSerial1_RX and LED-STRIP pins.
+
+            Replaced SBUS by IBUS as default protocol.
+
+            BMI160 as default IMU versus MPU6000.
+            
+10/16/2022:
+
+            Renamed "inav_5.1.0_BLACKPILL_BMI160.hex" to "inav_5.1.0_BLACKPILL_BMI160_96Mhz-old.hex" - to reflect systemclock.
+            
+            Added "inav_5.1.0_BLACKPILL_BMI160_96Mhz-new.hex" that runs at 96Mhz but on a different permutation.
+            
+            Added "inav_5.1.0_BLACKPILL_BMI160_108Mhz.hex" that runs at 108Mhz.
 
 
 Prototype with MPU6050
