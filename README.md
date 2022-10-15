@@ -50,9 +50,15 @@ Version 2.0 BMI160
 IMU SELECTION
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/IMPORTANT!!!.png?dl=0)
 
-Others: 
+Others:
+
 Tyro79 frame, strap and motors
+
 20A 4-in-1 ESC (loaded with BlueJay)
+
 Flysky FS-RX2A Pro Receiver (Running on IBUS)
+
 Flysky FS-i6 Transmitter (14-channel Firmware)
+
 Lipo Battery 4s 600mAH
+
