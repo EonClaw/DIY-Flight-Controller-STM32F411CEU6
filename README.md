@@ -20,7 +20,7 @@ Replaced SBUS by IBUS as default protocol.
 
 BMI160 as default IMU versus MPU6000.
 
-3D Printed Blackpill Mount STL - https://www.thingiverse.com/thing:5565912
+3D Printed Blackpill Mount STL - https://www.thingiverse.com/thing:5567402
 
 
 Prototype with MPU6050
