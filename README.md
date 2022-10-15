@@ -44,7 +44,7 @@ Version 2.0 BMI160
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/blackpill-fc-pinout.png?dl=0)
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/README%20FIRST!!!.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/IMPORTANT!!!.png?dl=0)
 
 
 
