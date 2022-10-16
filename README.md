@@ -62,7 +62,7 @@ Version 2.0 BMI160
 IMU SELECTION
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/IMPORTANT!!!.png?dl=0)
 
-Others:
+Other modules used:
 
 Tyro79 frame, strap and motors
 
