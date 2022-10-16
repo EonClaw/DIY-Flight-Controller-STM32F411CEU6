@@ -57,7 +57,7 @@ Version 2.0 BMI160
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/20221015_083927.jpg?dl=0)
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-50.png?dl=0)
 
 IMU SELECTION
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/IMPORTANT!!!.png?dl=0)
