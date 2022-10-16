@@ -40,12 +40,13 @@ Prototype with MPU6050
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/20221008_022133.jpg?dl=0)
 
 
-Version 1.0 MPU6050
+Version 1.0 MPU6050 I2C
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/20221010_202114.jpg?dl=0)
 
+Flyable but performance-wise, not recommended.
 
-Version 2.0 BMI160
+Version 2.0 BMI160 SPI
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/20221014_203524-ed.jpg?dl=0)
 
