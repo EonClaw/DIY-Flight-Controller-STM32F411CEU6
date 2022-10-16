@@ -74,7 +74,7 @@ Lipo Battery 4s 600mAH
 
 3D Printed Blackpill Mount STL - https://www.thingiverse.com/thing:5567402
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/blkpil-05.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/blkpil-05-50.png?dl=0)
 
 
 CAUTION!!!
