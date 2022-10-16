@@ -15,9 +15,6 @@ ESC Dshot300 with Bluejay Firmware 48Khz - Remember your ESC version (better dow
 set looptime = 1000
 
 
-3D Printed Blackpill Mount STL - https://www.thingiverse.com/thing:5567402
-
-
 Changelog from Original MatekF411 Target:
 
 10/14/2022:
@@ -75,9 +72,16 @@ Flysky FS-i6 Transmitter (14-channel Firmware)
 
 Lipo Battery 4s 600mAH
 
+3D Printed Blackpill Mount STL - https://www.thingiverse.com/thing:5567402
+
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/blkpil-05.png?dl=0)
+
+
 CAUTION!!!
 
 USING THE MPU6050 AS PRIMARY IMU WILL HAVE A HIGH RISK OF BURNING YOUR MOTORS IF NOT PROPERLY CONFIGURED.
+
+
 
 
 SOON! A 5$ DIY FLIGHT CONTROLLER USING STM32F401.
