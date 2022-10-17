@@ -97,4 +97,3 @@ USING THE MPU6050 AS PRIMARY IMU WILL HAVE A HIGH RISK OF BURNING YOUR MOTORS IF
 SOON! A 5$ DIY FLIGHT CONTROLLER USING STM32F401.
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/cc.png?dl=0)
-Licence Applied
