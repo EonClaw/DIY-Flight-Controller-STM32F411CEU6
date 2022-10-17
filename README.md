@@ -8,7 +8,7 @@ BMI160
 
 MPU6050
 
-Blackbox
+Blackbox (not implemented yet)
 
 
 To verify pin assignments: Open Configurator, in CLI - type "resource". 
