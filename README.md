@@ -42,6 +42,8 @@ Changelog from Original MatekF411 Target:
 
 10/18/2022:
 
+            Added firmware for STM32F401 chip.
+            
             Deleted and renamed redundant firmwares.
             
 
