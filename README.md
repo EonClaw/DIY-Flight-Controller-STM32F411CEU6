@@ -39,6 +39,10 @@ Changelog from Original MatekF411 Target:
             Added "inav_5.1.0_BLACKPILL_BMI160_96Mhz-new.hex" that runs at 96Mhz but on a different permutation.
             
             Uploaded image of the FC mount STL.
+
+10/18/2022:
+
+            Deleted and renamed redundant firmwares.
             
 
 
