@@ -1,4 +1,4 @@
-# 10$ DIY Flight Controller BLACKPILL-STM32F411CEU6
+# $5 DIY Flight Controller BLACKPILL-STM32F411CEU6
 
 INAV 5.1.0 Firmware
 
