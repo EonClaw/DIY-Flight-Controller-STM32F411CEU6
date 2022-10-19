@@ -4,9 +4,7 @@ INAV 5.1.0 Firmware
 
 Features:
 
-BMI160
-
-MPU6050
+BMI160 or MPU6050
 
 Blackbox (not implemented yet)
 
