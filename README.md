@@ -9,7 +9,7 @@ BMI160 or MPU6050 (tested)
 
 To verify pin assignments: Open Configurator, in CLI - type "resource". 
 
-No warranties. Use at your own risk.
+No warranty. Use at your own risk.
 
 Recommended Settings:
 
