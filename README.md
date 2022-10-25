@@ -15,7 +15,9 @@ Recommended Settings:
 
 ESC Dshot300 with Bluejay Firmware 48Khz - Remember your ESC version (better download a copy) first before Upgrading.
 
-set looptime = 1000 (CLI)
+CLI
+set looptime = 1000 
+set dshot_beeper_enabled = OFF
 
 
 Changelog from Original MatekF411 Target:
