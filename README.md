@@ -1,5 +1,7 @@
 # $5 DIY Flight Controller BLACKPILL-STM32F411CEU6
 
+[![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
+
 INAV 5.1.0 Firmware
 
 Features:
@@ -61,10 +63,6 @@ Black Box (SDCARD)
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/inavbb.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
-
-FLIGHT VIDEO:
-
-[![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
 
 Other modules used:
 
