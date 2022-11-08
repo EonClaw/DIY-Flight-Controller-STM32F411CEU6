@@ -62,9 +62,9 @@ Black Box (SDCARD)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/inavbb.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
-           FLIGHT VIDEO:
+FLIGHT VIDEO:
 
-           [![Watch the video](https://static.rcgroups.net/forums/attachments/9/2/5/1/7/5/a16613195-93-20221016_135220.jpg)](https://www.youtube.com/embed/4ur5MpvDCFg)
+[![Watch the video](https://static.rcgroups.net/forums/attachments/9/2/5/1/7/5/a16613195-93-20221016_135220.jpg)](https://www.youtube.com/embed/4ur5MpvDCFg)
 
 Other modules used:
 
