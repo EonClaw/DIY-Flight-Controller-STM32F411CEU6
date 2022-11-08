@@ -65,7 +65,10 @@ Black Box (SDCARD)
 Maiden Flight Video
 
 ![My Remote Image](https://static.rcgroups.net/forums/attachments/9/2/5/1/7/5/a16613195-93-20221016_135220.jpg?dl=0)
+
 https://www.youtube.com/watch?v=4ur5MpvDCFg
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ur5MpvDCFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Other modules used:
 
