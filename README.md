@@ -48,12 +48,23 @@ Version 2.0 BMI160 SPI
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/20221011_154746-ed.jpg?dl=0)
 
+
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-sd.png?dl=0)
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/BMI1601.jpeg?dl=0)
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/MPU6500.png?dl=0)
 
+
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20220921_230136.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221009_025947.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221010_201518.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221014_203524-ed.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221014_205547.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221014_214014.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221014_214036.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221015_083626.jpg?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221016_135220.jpg?dl=0)
 
 IMU SELECTION
 
