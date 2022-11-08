@@ -63,7 +63,16 @@ Black Box (SDCARD)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
 Maiden Flight Video
-https://youtube.com/shorts/4ur5MpvDCFg
+
+ifdef::env-github[]
+image:https://static.rcgroups.net/forums/attachments/9/2/5/1/7/5/a16613195-93-20221016_135220.jpg[link=https://youtube.com/shorts/4ur5MpvDCFg]
+endif::[]
+
+ifndef::env-github[]
+video::shorts/4ur5MpvDCFg[youtube]
+endif::[]
+
+
 
 Other modules used:
 
