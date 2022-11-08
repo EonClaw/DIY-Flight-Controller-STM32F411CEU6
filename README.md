@@ -64,7 +64,7 @@ Black Box (SDCARD)
 
 FLIGHT VIDEO:
 
-[![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
+[![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
 
 Other modules used:
 
