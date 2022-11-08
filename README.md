@@ -64,15 +64,8 @@ Black Box (SDCARD)
 
 Maiden Flight Video
 
-ifdef::env-github[]
-image:https://static.rcgroups.net/forums/attachments/9/2/5/1/7/5/a16613195-93-20221016_135220.jpg[link=https://youtube.com/shorts/4ur5MpvDCFg]
-endif::[]
-
-ifndef::env-github[]
-video::shorts/4ur5MpvDCFg[youtube]
-endif::[]
-
-
+![My Remote Image](https://static.rcgroups.net/forums/attachments/9/2/5/1/7/5/a16613195-93-20221016_135220.jpg?dl=0)
+https://www.youtube.com/watch?v=4ur5MpvDCFg
 
 Other modules used:
 
