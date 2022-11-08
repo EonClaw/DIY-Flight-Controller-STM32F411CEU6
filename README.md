@@ -20,32 +20,7 @@ Type in CLI:
 set looptime = 1000
 
 set dshot_beeper_enabled = OFF
-
-
-Changelog from Original MatekF411 Target:
-
-10/14/2022:
-
-            Swapped SoftSerial1_RX and LED-STRIP pins.
-
-            Replaced SBUS by IBUS as default protocol.
-
-            BMI160 as default IMU versus MPU6000.
-            
-10/16/2022:
-
-            Renamed "inav_5.1.0_BLACKPILL_BMI160.hex" to "inav_5.1.0_BLACKPILL_BMI160_96Mhz-old.hex" - to reflect systemclock.
-            
-            Added "inav_5.1.0_BLACKPILL_BMI160_96Mhz-new.hex" that runs at 96Mhz but on a different permutation.
-            
-            Uploaded image of the FC mount STL.
-
-10/18/2022:
-
-            Added firmware for STM32F401 chip.
-            
-            Deleted and renamed redundant firmwares.
-            
+           
 
 
 Prototype with MPU6050
