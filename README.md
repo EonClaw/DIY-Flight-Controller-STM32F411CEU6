@@ -6,7 +6,7 @@ INAV 5.1.0 Firmware
 
 Features:
 
-BMI160 or MPU6050 (tested)
+BMI160 or MPU6500. For MPU6050 I2C (see instructions)
 
 
 To verify pin assignments: Open Configurator, in CLI - type "resource". 
