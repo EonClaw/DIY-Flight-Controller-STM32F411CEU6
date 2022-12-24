@@ -55,6 +55,8 @@ Version 2.0 BMI160 SPI
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/MPU6500.png?dl=0)
 
+UPDATE!!! INAV-6.0.0
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/gps%20port1%20%20inav-6.0.0-50.png?dl=0)
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20220921_230136.jpg?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221009_025947.jpg?dl=0)
