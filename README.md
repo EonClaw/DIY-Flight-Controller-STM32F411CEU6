@@ -59,6 +59,8 @@ UPDATE!!! INAV-6.0.0
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/gps%20port1%20%20inav-6.0.0-50.png?dl=0)
 
+BUILD IMAGES
+
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20220921_230136.jpg?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221009_025947.jpg?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221010_201518.jpg?dl=0)
@@ -104,7 +106,7 @@ USING THE MPU6050 AS PRIMARY IMU WILL HAVE A HIGH RISK OF BURNING YOUR MOTORS IF
 
 
 
-SOON! A 5$ DIY FLIGHT CONTROLLER USING STM32F401.
+SOON! Firmware for FIXED WING
 
 
 
