@@ -2,6 +2,10 @@
 
 [![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
 
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE.png?dl=0)
+
+NEW!!! INAV 6.0.0 RC1 Firmware
+
 INAV 5.1.0 Firmware
 
 Features:
@@ -28,9 +32,6 @@ set dshot_beeper_enabled = OFF
 Prototype with MPU6050
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/20221008_022133.jpg?dl=0)
-
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE.png?dl=0)
-
 
 Version 1.0 MPU6050 I2C
 
