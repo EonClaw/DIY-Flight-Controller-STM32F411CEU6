@@ -8,6 +8,30 @@ NEW!!! INAV 6.0.0 RC1 Firmware
 
 See INAV Offical Site for Changes
 
+           Quadcopter Pinout:
+           PB4: MOTOR1 OUT
+           PB5: MOTOR2 OUT
+           PB6: MOTOR3 OUT
+           PB7: MOTOR4 OUT
+           
+           Tricopter Pinout:
+           PB3: SERVO4 OUT
+           PB4: MOTOR1 OUT
+           PB5: MOTOR2 OUT
+           PB6: MOTOR3 OUT
+
+           Flying Wing Pinout:
+           PB4: MOTOR1 OUT           
+           PB6: SERVO2 OUT
+           PB7: SERVO3 OUT
+           
+           Airplane/V-Tail
+           PB3: SERVO4 OUT
+           PB4: MOTOR1 OUT
+           PB6: SERVO2 OUT
+           PB7: SERVO3 OUT
+           PB10: SERVO5 OUT          
+
 
 
 OLD Firmware
