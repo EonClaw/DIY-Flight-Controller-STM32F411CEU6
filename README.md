@@ -6,6 +6,11 @@
 
 NEW!!! INAV 6.0.0 RC1 Firmware
 
+See INAV Offical Site for Changes
+
+
+
+OLD Firmware
 INAV 5.1.0 Firmware
 
 Features:
