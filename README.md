@@ -1,16 +1,14 @@
 # $5 DIY Flight Controller BLACKPILL-STM32F411CEU6
 
+NEW!!! INAV 6.0.0 RC1 Firmware
+
 [![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGEXXX.png?dl=0)
 
-![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
-
-NEW!!! INAV 6.0.0 RC1 Firmware
-
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/Motor-Servo-Pinouts.png?dl=0)
 
-
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
 BUILD IMAGES
 
