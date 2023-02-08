@@ -1,6 +1,7 @@
 Connect STM32 Black Pill to your computer USB port.
-Enable DFU bootlaoder
+Enable DFU bootloader
 
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bluepill_button.jpg?dl=0)
 
 Use the onboard BOOT0 and NRST button to put the board into bootloader mode:
 
