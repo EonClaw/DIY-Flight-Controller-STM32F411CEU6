@@ -8,6 +8,9 @@
 
 NEW!!! INAV 6.0.0 RC1 Firmware
 
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/Motor-Servo-Pinouts.png?dl=0)
+
+
 See INAV Offical Site for Changes
 
            MOTOR/SERVO PINOUTS
