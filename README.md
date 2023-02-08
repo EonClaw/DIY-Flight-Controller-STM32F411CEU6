@@ -26,13 +26,11 @@ BUILD IMAGES
 
 IMU SELECTION - ONLY APPLICABLE TO THE BLACKPILL_BMI160_MPU6050_108Mhz FIRMWARE
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/IMPORTANT!!!.png?dl=0)
-
 Black Box (SDCARD)
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/inavbb.png?dl=0)
 
-Other modules used:
+Other parts/modules used:
 
 Tyro79 frame, strap and motors
 
