@@ -48,15 +48,7 @@ Lipo Battery 4s 600mAH
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blkpil-05-50.png?dl=0)
 
 
-CAUTION!!!
-
-USING THE MPU6050 AS PRIMARY IMU WILL HAVE A HIGH RISK OF BURNING YOUR MOTORS IF NOT PROPERLY CONFIGURED.
-
-
-
-
-SOON! Firmware for FIXED WING
-
+No warranties. No guarantees. Use at your own risk. 
 
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/cc.png?dl=0)
