@@ -6,7 +6,11 @@ NEW!!! INAV 6.0.0 RC1 Firmware
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGEXXX.png?dl=0)
 
+Motor/Servo Pinout
+
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/Motor-Servo-Pinouts.png?dl=0)
+
+Blackbox SD Card Support
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
