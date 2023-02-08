@@ -29,12 +29,26 @@ See INAV Offical Site for Changes
            PB6: SERVO2 OUT
            PB7: SERVO3 OUT
            
+           Flying Wing with Differential Thrust:
+           PB4: MOTOR1 OUT
+           PB5: MOTOR2 OUT
+           PB6: SERVO3 OUT
+           PB7: SERVO4 OUT
+           
            Airplane/V-Tail:
            PB3: SERVO4 OUT
            PB4: MOTOR1 OUT
            PB6: SERVO2 OUT
            PB7: SERVO3 OUT
-           PB10: SERVO5 OUT          
+           PB10: SERVO5 OUT
+           
+           Airplane V-Tail with Differential Thrust:
+           PB3: SERVO5 OUT
+           PB4: MOTOR1 OUT
+           PB5: MOTOR2 OUT
+           PB6: SERVO3 OUT
+           PB7: SERVO4 OUT
+           PB10: SERVO6 OUT
 
 
 
