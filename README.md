@@ -26,8 +26,6 @@ BUILD IMAGES
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221015_083626.jpg?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221016_135220.jpg?dl=0)
 
-IMU SELECTION - ONLY APPLICABLE TO THE BLACKPILL_BMI160_MPU6050_108Mhz FIRMWARE
-
 Black Box (SDCARD)
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/inavbb.png?dl=0)
