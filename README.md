@@ -32,7 +32,7 @@ Blackbox SD Card Support
 
 FEATURES
 
-2 UARTs, 1 Software serial, LED Strip, SD Card Blackbox, Voltage and Current Sensor, Telemetry.
+2 UARTs, 1 Software serial, LED Strip, SD Card Blackbox, Voltage and Current Sensor, Buzzer, Telemetry.
 
 SUPPORTED SENSORS
 
