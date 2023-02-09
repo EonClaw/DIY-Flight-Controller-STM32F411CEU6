@@ -16,6 +16,8 @@ BUILD IMAGES
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221015_083626.jpg?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221016_135220.jpg?dl=0)
 
+Schematics
+
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGEXXX.png?dl=0)
 
 Motor/Servo Pinout
@@ -33,13 +35,15 @@ Other parts/modules used:
 
 Tyro79 frame, strap and motors
 
-20A 4-in-1 ESC (loaded with BlueJay)
+20A 4-in-1 ESC (loaded with BlueJay Firmware)
 
-Buck converter
+Buck converter adjusted to 3.45v output
+
+DIY ELRS TX/RX modules
 
 Flysky FS-RX2A Pro Receiver (IBUS)
 
-Flysky FS-i6 Transmitter (14-channel Firmware)
+Flysky FS-i6 Transmitter ERFLY6 firmware
 
 Lipo Battery 4s 600mAH
 
