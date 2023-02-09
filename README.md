@@ -30,17 +30,18 @@ Blackbox SD Card Support
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
-Supported Sensors:
-  Acc/Gyro
-  MPU6000
-  MPU6500
-  MPU9250
-  BMI160
 
-  Mag
+TESTED SENSORS
 
+Acc/Gyro: MPU6000, MPU6500, MPU9250, BMI160
 
-Other parts/modules used:
+Baro: BMP280, MS5611
+
+Mag: HMC5883, QMC5883 
+
+Rangefinder: VL53l0x
+
+OTHERS
 
 Tyro79 frame, strap and motors
 
