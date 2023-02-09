@@ -30,6 +30,9 @@ Blackbox SD Card Support
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
+FEATURES
+
+2 UARTs, 1 Software serial, LED Strip, SD Card Blackbox, Voltage and Current Sensor, Telemetry.
 
 SUPPORTED SENSORS
 
