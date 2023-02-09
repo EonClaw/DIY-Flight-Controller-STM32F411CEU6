@@ -31,7 +31,7 @@ Blackbox SD Card Support
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
 
-TESTED SENSORS
+SUPPORTED SENSORS
 
 Acc/Gyro: MPU6000, MPU6500, MPU9250, BMI160
 
