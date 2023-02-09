@@ -22,7 +22,7 @@ Schematics
 
 Motor/Servo Pinout
 
-![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/Motor-Servo-Pinouts-black.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/Motor-Servo-Pinouts-black1.png?dl=0)
 
 Blackbox SD Card Support
 
