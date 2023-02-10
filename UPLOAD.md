@@ -6,12 +6,13 @@ Enable DFU bootloader
 
 Use the onboard BOOT0 and NRST button to put the board into bootloader mode:
 
+    Connect to PC USB port
     press and hold the BOOT0 button
     press and release NRST (reset) button to power cycle the processor
     release BOOT0 button
     
     OR
     
-    Before connecting to USB, press hold BOOT0 button.
+    While disconnected, press hold BOOT0 button, then connect to USB port.
 
-Upload firmware using Configurator
+Upload firmware using Configurator while in DFU mode.
