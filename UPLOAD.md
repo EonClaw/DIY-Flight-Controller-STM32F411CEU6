@@ -12,6 +12,6 @@ Use the onboard BOOT0 and NRST button to put the board into bootloader mode:
     
     OR
     
-    Before connecting the USB plug press hold BOOT0 button.
+    Before connecting to USB, press hold BOOT0 button.
 
 Upload firmware using Configurator
