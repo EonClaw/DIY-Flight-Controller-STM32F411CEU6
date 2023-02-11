@@ -14,3 +14,7 @@ Use the onboard BOOT0 and NRST button to put the board into bootloader mode:
     While disconnected, press hold BOOT0 button, then connect to USB port.
 
 Upload firmware using Configurator while in DFU mode.
+
+Configurator for INAV 6.0.0-RC2
+
+https://github.com/iNavFlight/inav-configurator/releases/tag/5.1.0
