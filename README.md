@@ -18,7 +18,7 @@ BUILD IMAGES
 
 Schematics
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev1A.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev1B.png?dl=0)
 
 Motor/Servo Pinout
 
