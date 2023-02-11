@@ -11,7 +11,7 @@ Use the onboard BOOT0 and NRST button to put the board into bootloader mode:
     
     OR
     
-    While disconnected, press hold BOOT0 button, then connect to USB port.
+    While disconnected, press hold BOOT0 button, connect to USB port, then release BOOT0 button.
 
 Upload firmware using Configurator while in DFU mode.
 
