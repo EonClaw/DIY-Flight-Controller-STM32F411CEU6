@@ -39,7 +39,7 @@ Download link:
 
 https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 
-![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-2-dl.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-2A-dl.png?dl=0)
 
 Enable DFU Mode.
 
