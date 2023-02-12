@@ -30,3 +30,14 @@ https://github.com/iNavFlight/inav-configurator/releases/tag/5.1.0
 BETAFLIGHT Configurator Links
 
 betaflight_4.3.2_BLACKPILL_.hex ===>  https://github.com/betaflight/betaflight-configurator/releases/tag/10.8.0
+
+
+USING THE STM32CubeProgrammer TO UPLOAD FIRMWARE
+
+Download link:
+
+https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
+
+Enable DFU Mode.
+
+
