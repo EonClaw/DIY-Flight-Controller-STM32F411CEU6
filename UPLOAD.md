@@ -34,7 +34,8 @@ betaflight_4.3.2_BLACKPILL_.hex ===>  https://github.com/betaflight/betaflight-c
 
 USING THE STM32CubeProgrammer TO UPLOAD FIRMWARE
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-1.png?dl=0)
-![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-1-50.png?dl=0)
+
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-2-dl.png?dl=0)
 
 
 Download link:
