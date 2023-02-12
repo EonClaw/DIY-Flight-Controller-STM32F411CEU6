@@ -47,6 +47,11 @@ Enable DFU Mode.
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-4.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-5.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-6.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-7.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-8.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-9.png?dl=0)
+
+Open Configurator.
 
 
 
