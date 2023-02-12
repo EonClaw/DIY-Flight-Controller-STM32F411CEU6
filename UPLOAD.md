@@ -35,13 +35,15 @@ betaflight_4.3.2_BLACKPILL_.hex ===>  https://github.com/betaflight/betaflight-c
 USING THE STM32CubeProgrammer TO UPLOAD FIRMWARE
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-1.png?dl=0)
 
-Download link:
+
+Download Program and lnstall
 
 https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-2A-dl.png?dl=0)
 
-Enable DFU Mode.
+
+Connect Flight Controller, Enable DFU Mode and upload firware.
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-3-connectusbA.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-4A.png?dl=0)
@@ -52,7 +54,7 @@ Enable DFU Mode.
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-9A.png?dl=0)
 
 
-Open Configurator to update firmware.
+Open Configurator to update settings/configuration.
 
 
 
