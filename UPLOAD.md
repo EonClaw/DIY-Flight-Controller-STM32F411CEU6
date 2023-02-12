@@ -36,25 +36,39 @@ USING THE STM32CubeProgrammer TO UPLOAD FIRMWARE
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-1.png?dl=0)
 
 
-Download Program and lnstall
+Download Program and lnstall.
 
 https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-2AA-dl.png?dl=0)
 
 
-Connect Flight Controller, Enable DFU Mode, Connect via USB and upload firware.
+Connect Flight Controller cable, Enable DFU Mode, Click USB and Enter.
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-3-connectusbA.png?dl=0)
+
+Read Chip
+
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-4A.png?dl=0)
+
+Click - Full chip erase
+
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-5A.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-6A.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-7.png?dl=0)
+
+Select Firmware to be uploaded
+
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-8A.png?dl=0)
+
+Close all prompts and exit program
+
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-9A.png?dl=0)
 
 
-Open Configurator to update settings/configuration.
+Open Now Configurator to update settings.
+
+Goodluck!
 
 
 
