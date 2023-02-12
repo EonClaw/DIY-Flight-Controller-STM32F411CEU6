@@ -60,21 +60,14 @@ Full chip erase
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-7A.png?dl=0)
 
 
-Select Firmware to be uploaded
+Select Firmware to be uploaded - Check Verif and Run after programming - Browse - Start Programming
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-7B.png?dl=0)
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-8A.png?dl=0)
 
-Close all prompts and exit program
+After Programming - Close all prompts and exit
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-9A.png?dl=0)
 
-
 Open Now Configurator to update settings.
-
-Goodluck!
-
-
-
-
