@@ -43,7 +43,7 @@ https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-2AA-dl.png?dl=0)
 
 
-Connect Flight Controller, Enable DFU Mode and upload firware.
+Connect Flight Controller, Enable DFU Mode, Connect via USB and upload firware.
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-3-connectusbA.png?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/upload-4A.png?dl=0)
