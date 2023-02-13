@@ -1,4 +1,4 @@
-# $5 DIY Flight Controller BLACKPILL-STM32F411CEU6
+# $5 DIY Flight Controller BLACKPILL-STM32F411 (Betaflight and INAV)
 
 NEW!!! INAV 6.0.0 RC1 Firmware
 
