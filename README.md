@@ -1,6 +1,8 @@
 # $5 DIY Flight Controller BLACKPILL-STM32F411 (Betaflight and INAV)
 
-NEW!!! INAV 6.0.0 RC1 Firmware
+NEW!!! INAV 6.0.0 RC2 and Betaflight 4.3.2 Firmwares
+
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev20.png?dl=0)
 
 [![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
 
@@ -18,7 +20,6 @@ BUILD IMAGES
 
 Schematics
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev20.png?dl=0)
 
 Motor/Servo Pinout
 
