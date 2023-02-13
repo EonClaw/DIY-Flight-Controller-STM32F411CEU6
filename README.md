@@ -2,6 +2,8 @@
 
 NEW!!! INAV 6.0.0 RC2 and Betaflight 4.3.2 Firmwares
 
+Schematics
+
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev20.png?dl=0)
 
 [![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
@@ -18,9 +20,6 @@ BUILD IMAGES
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221015_083626.jpg?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221016_135220.jpg?dl=0)
 
-Schematics
-
-
 Motor/Servo Pinout
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/Motor-Servo-Pinouts-black1.png?dl=0)
@@ -35,9 +34,9 @@ https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/5.0.0
 
 FEATURES
 
-2 UARTs, 1 Software serial, LED Strip, SD Card Blackbox, Voltage and Current Sensor, Buzzer, Telemetry.
+2 UARTs, 1/2 Software serial, LED Strip, SDCard Blackbox, Voltage and Current Sensor, Buzzer, Telemetry.
 
-SUPPORTED SENSORS
+SUPPORTED/TESTED SENSORS
 
 Acc/Gyro: MPU6000, MPU6500, MPU9250, BMI160
 
@@ -47,13 +46,15 @@ Mag: HMC5883, QMC5883
 
 Rangefinder: VL53l0x
 
+GPS: BN-220T
+
 OTHERS
 
 Tyro79 frame, strap and motors
 
 20A 4-in-1 ESC (loaded with BlueJay Firmware)
 
-Buck converter adjusted to 3.45v output
+Buck converter adjusted to 5v output
 
 DIY ELRS TX/RX modules
 
@@ -67,8 +68,6 @@ Lipo Battery 4s 600mAH
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blkpil-05-50.png?dl=0)
 
-
 No warranties. No guarantees. Use at your own risk. 
-
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/cc.png?dl=0)
