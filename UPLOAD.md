@@ -12,6 +12,13 @@ Use the onboard BOOT0 and NRST button to put the board into bootloader mode:
     OR
     
     While disconnected, press hold BOOT0 button, connect to USB port, then release BOOT0 button.
+    
+    OR
+    
+    While connected to INAv or Betaflight-Configurator, got to CLI and type 
+    
+    "DFU" for INAV-Configurator or "BL" for Betaflight-Configurator
+
 
 Upload firmware using Configurator while in DFU mode.
 
