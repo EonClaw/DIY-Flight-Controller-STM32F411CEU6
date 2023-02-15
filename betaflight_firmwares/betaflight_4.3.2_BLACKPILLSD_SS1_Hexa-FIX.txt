@@ -1,0 +1,103 @@
+# Betaflight / STM32F411 (S411) 4.1.0 Jun 25 2019 / 10:27:57 (2a6e94d03) MSP API: 1.42
+
+#mcu STM32F411
+
+#define USE_GYRO_SPI_MPU6500
+#define USE_ACC_SPI_MPU6500
+#define USE_MAG_HMC5883
+#define USE_MAG_QMC5883
+#define USE_BARO_MS5611
+#define USE_BARO_BMP280
+#define USE_MAX7456
+#define USE_SDCARD
+
+board_name BLACKPILL
+#manufacturer_id MTKS
+manufacturer_id SHAN
+
+# resource
+resource BEEPER 1 A14
+resource MOTOR 1 B04
+resource MOTOR 2 B05
+resource MOTOR 3 B06
+resource MOTOR 4 B07
+resource MOTOR 5 B10
+resource SERVO 1 B06
+resource SERVO 2 B07
+resource SERVO 3 B03
+resource SERVO 4 B10
+resource PPM 1 A08
+resource LED_STRIP 1 A00
+resource SERIAL_TX 1 A09
+resource SERIAL_TX 2 A02
+resource SERIAL_TX 11 A01
+#resource SERIAL_TX 12 B10
+resource SERIAL_RX 1 A10
+resource SERIAL_RX 2 A03
+resource SERIAL_RX 11 A08
+#resource SERIAL_RX 12 A15
+resource I2C_SCL 1 B08
+resource I2C_SDA 1 B09
+resource LED 1 C13
+resource LED 2 C14
+resource SPI_SCK 1 A05
+resource SPI_SCK 2 B13
+resource SPI_MISO 1 A06
+resource SPI_MISO 2 B14
+resource SPI_MOSI 1 A07
+resource SPI_MOSI 2 B15
+resource ADC_BATT 1 B01
+resource ADC_CURR 1 B00
+resource SDCARD_CS 1 B12
+resource GYRO_CS 1 A04
+resource USB_DETECT 1 C15
+
+# feature
+feature RX_SERIAL
+feature SOFTSERIAL
+feature TELEMETRY
+feature LED_STRIP
+#feature MOTOR_STOP
+feature AIRMODE
+
+# serial
+serial 20 1 115200 57600 0 115200
+serial 0 2 115200 115200 0 115200
+serial 1 64 115200 57600 0 115200
+serial 30 0 115200 57600 0 115200
+#serial 31 1 115200 57600 0 115200
+
+# master
+set serialrx_provider = CRSF
+set dshot_burst = AUTO
+set dshot_bitbang = OFF
+set mag_bustype = I2C
+set mag_i2c_device = 1
+set mag_hardware = AUTO
+set baro_bustype = I2C
+set baro_i2c_device = 1
+set baro_hardware = AUTO
+set current_meter = ADC
+set battery_meter = ADC
+set vbat_detect_cell_voltage = 300
+set beeper_inversion = ON
+set beeper_od = OFF
+set gyro_1_bustype = SPI
+set gyro_1_spibus = 1
+set gyro_1_i2cBus = 0
+set gyro_1_i2c_address = 0
+set gyro_1_sensor_align = CW90
+set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+set blackbox_device = SDCARD
+set sdcard_detect_inverted = ON
+set sdcard_mode = SPI
+set sdcard_spi_bus = 2
+set gps_provider = UBLOX
+set gps_sbas_mode = AUTO
+set gps_auto_baud = ON
+set gps_ublox_use_galileo = ON
+set sdcard_detect_inverted = ON
+
+#save
+save
