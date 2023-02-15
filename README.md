@@ -1,10 +1,10 @@
 # $5 DIY Flight Controller BLACKPILL-STM32F411 (Betaflight and INAV)
 
-NEW!!! INAV 6.0.0 RC2 and 
+NEW!!! INAV 6.0.0 RC2
+FEATURES: 2x UARTs, 1x Software_serial, LED Strip, SDCard Blackbox, Voltage Sensor, Buzzer, Telemetry.
 
 Betaflight 4.3.2 Firmware
-
-2x UARTs, 2x Software_serial, LED Strip, SDCard Blackbox, Voltage Sensor, Buzzer, Telemetry.
+FEATURES: 2x UARTs, 2x Software_serial, LED Strip, SDCard Blackbox, Voltage Sensor, Buzzer, Telemetry.
 
 HOOKUP DIAGRAM
 
