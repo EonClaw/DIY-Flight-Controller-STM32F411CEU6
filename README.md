@@ -4,7 +4,7 @@ NEW!!! INAV 6.0.0 RC2 and Betaflight 4.3.2 Firmwares
 
 HOOKUP DIAGRAM
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev20.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-Rev2.png?dl=0)
 
 [![Watch the video](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/YT-VID-BIG.png)](https://www.youtube.com/embed/4ur5MpvDCFg)
 
