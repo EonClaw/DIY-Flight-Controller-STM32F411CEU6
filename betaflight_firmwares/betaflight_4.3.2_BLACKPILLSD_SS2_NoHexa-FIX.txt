@@ -16,7 +16,8 @@ board_name BLACKPILL
 manufacturer_id SHAN
 
 # resource
-resource BEEPER 1 A14
+#resource BEEPER 1 A14
+resource BEEPER 1 B02
 resource MOTOR 1 B04
 resource MOTOR 2 B05
 resource MOTOR 3 B06
@@ -26,7 +27,8 @@ resource SERVO 1 B06
 resource SERVO 2 B07
 resource SERVO 3 B03
 resource SERVO 4 B10
-resource PPM 1 A08
+#resource PPM 1 A08
+resource PPM 1 A03
 resource LED_STRIP 1 A00
 resource SERIAL_TX 1 A09
 resource SERIAL_TX 2 A02
