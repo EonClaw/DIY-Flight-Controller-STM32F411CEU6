@@ -1,6 +1,6 @@
 # $5 DIY Flight Controller BLACKPILL-STM32F411 (Betaflight and INAV)
 
-NEW!!!     INAV 6.0.0 RC2 Firmware
+NEW UPDATE (02/19/2023) !!!     INAV 6.0.0 RC2 Firmware
 FEATURES: 2x UARTs, 1x Software_serial, LED Strip, SDCard Blackbox, Voltage-Current Sensor, Beeper, Telemetry.
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/inav600-480.png?dl=0)
 
