@@ -36,7 +36,7 @@ Blackbox SD Card Support
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
-https://github.com/iNavFlight/blackbox-log-viewer/releases/tag/5.0.0
+https://github.com/iNavFlight/blackbox-log-viewer/releases
 
 FEATURES
 
