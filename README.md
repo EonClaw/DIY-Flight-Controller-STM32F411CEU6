@@ -14,7 +14,6 @@ HOOKUP DIAGRAM V3
 
 UPDATE (02/19/2023) !!!     INAV 6.0.0 RC2 Firmware
 FEATURES: 2x UARTs, 1x Software_serial, 2x SPIs, 1x I2C, 2x ADC, LED Strip, SDCard Blackbox, Voltage Sensor, Beeper, Telemetry.
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/inav600-480.png?dl=0)
 
 NEW!!!     Betaflight 4.3.2 Firmware
 FEATURES: 2x UARTs, 2x Software_serial, LED Strip, SDCard Blackbox, Voltage-current Sensor, Beeper, Telemetry.
