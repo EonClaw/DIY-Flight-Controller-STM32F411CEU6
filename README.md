@@ -33,10 +33,6 @@ BUILD IMAGES
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221015_083626.jpg?dl=0)
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/thumbs/thumb-20221016_135220.jpg?dl=0)
 
-Motor/Servo Pinout
-
-![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/Motor-Servo-Pinouts-black1.png?dl=0)
-
 Blackbox SD Card Support
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/inavbb2.png?dl=0)
@@ -44,10 +40,6 @@ Blackbox SD Card Support
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/bbexplorer.png?dl=0)
 
 https://github.com/iNavFlight/blackbox-log-viewer/releases
-
-FEATURES
-
-2 UARTs, 1/2 Software serial, LED Strip, SDCard Blackbox, Voltage and Current Sensor, Buzzer, Telemetry.
 
 SUPPORTED/TESTED SENSORS
 
