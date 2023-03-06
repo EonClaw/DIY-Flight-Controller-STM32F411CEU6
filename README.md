@@ -10,7 +10,7 @@ FEATURES: Running @ 108mhz, 2x UARTs, 1x Software_serial, 2x SPIs, 1x I2C, 2x AD
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev3-QUAD-inav.png?dl=0)
 
 HOOKUP DIAGRAM V3
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev3-QUAD.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev3-QUADa.png?dl=0)
 
 
 
