@@ -1,6 +1,6 @@
 # $5 DIY Flight Controller BLACKPILL-STM32F411 (Betaflight and INAV)
 
-LATEST UPDATE (03/06/2023) !!!     INAV 6.0.0 RC2 Firmware V3 - INAV only!!!
+LATEST UPDATE (03/06/2023) !!!     INAV 6.0.0 RC2 Firmware V3
 
 inav_6.0.0_RC2_BLACKPILL_QUAD_SS1_SD_LED_4S_ADC2_108
 
