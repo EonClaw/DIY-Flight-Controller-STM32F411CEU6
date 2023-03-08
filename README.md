@@ -49,6 +49,10 @@ Acc/Gyro: MPU6000, MPU6500, MPU9250, BMI160
 
 MPU6050 (Only on Inav-5.1.0 with headers facing front) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX then "Outputs" to Enable Motors and Servo Output and DSHOT300.
 
+![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/keepcurrentsettings.png?dl=0)
+
+
+
 Baro: BMP280, MS5611
 
 Mag: HMC5883, QMC5883 
