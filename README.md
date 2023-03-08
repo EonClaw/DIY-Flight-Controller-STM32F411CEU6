@@ -85,3 +85,7 @@ Lipo Battery 4s 600mAH
 No warranties. No guarantees. Use at your own risk. 
 
 ![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/cc.png?dl=0)
+
+Please See Updated Post at
+
+https://github.com/ShanGlor/Blackpill-F411-Flight-Controller
