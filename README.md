@@ -47,6 +47,8 @@ SUPPORTED/TESTED SENSORS
 
 Acc/Gyro: MPU6000, MPU6500, MPU9250, BMI160
 
+MPU6050 - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify Output and Mixers.
+
 Baro: BMP280, MS5611
 
 Mag: HMC5883, QMC5883 
