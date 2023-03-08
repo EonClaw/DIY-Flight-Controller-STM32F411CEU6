@@ -47,7 +47,7 @@ SUPPORTED/TESTED SENSORS
 
 Acc/Gyro: MPU6000, MPU6500, MPU9250, BMI160
 
-MPU6050 (Only on Inav-5.1.0) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX then "Outputs" to Enable Motors and Servo Output and DSHOT300.
+MPU6050 (Only on Inav-5.1.0 with headers facing front) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX then "Outputs" to Enable Motors and Servo Output and DSHOT300.
 
 Baro: BMP280, MS5611
 
