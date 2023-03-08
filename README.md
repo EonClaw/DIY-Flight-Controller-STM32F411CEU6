@@ -57,6 +57,8 @@ GPS: BN-220T
 
 MPU6050 (Only on Inav-5.1.0 with headers facing front) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX then "Outputs" to Enable Motors and Servo Output and DSHOT300.
 
+Please use firmware - > inav_5.1.0_BLACKPILL_108.hex
+
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/keepcurrentsettings.png?dl=0)
 
 
