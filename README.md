@@ -2,8 +2,7 @@
 
 FOR LATEST UPDATE ->
 
-https://github.com/ShanGlor/Blackpill-F411-Flight-Controller
-
+https://github.com/ShanGlor/INAV-Blackpill-Flight-Controller
 
 
 UPDATE (03/06/2023) !!!     INAV 6.0.0 RC2 Firmware V3
